@@ -1,4 +1,4 @@
-# Run terminal and install it to your project diretory
+# Run VS terminal and install it to your project diretory
 ```bash
 composer require google/apiclient:"^2.0"
 ```
