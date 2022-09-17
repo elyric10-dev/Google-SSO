@@ -1,4 +1,6 @@
-<sub>composer install</sub>
+```bash
+composer require google/apiclient:"^2.0"
+```
 
 # Google Login with PHP SDK
 
