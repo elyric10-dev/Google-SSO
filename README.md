@@ -11,7 +11,7 @@ composer require google/apiclient:"^2.0"
 
 Firstly, you need to create an application with Google which will allow you to register your site with Google. It allows you to set up basic information about your website and a couple of technical details as well.
 
-Once you’re logged in with Google, open the [Google Developers console](https://console.developers.google.com/). That should open up the *Google Dashboard* page, as shown in the following screenshot.
+Once you’re logged in with Google, open the [Google Developers console](https://console.developers.google.com/). That should open up the ***Google Dashboard*** page, as shown in the following screenshot.
 
 ### Dashboard
 
